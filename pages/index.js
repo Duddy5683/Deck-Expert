@@ -74,7 +74,6 @@ const Home = () => {
             <h2>"Unlocking Tips, Techniques, and Expertise for Stunning Decks"</h2>
           </div>
         </div>
-        <div className="container">
           <div className="logo-container">
             <Image src={deckexpertLogo} alt="Your logo" />
         </div>
@@ -111,8 +110,6 @@ const Home = () => {
             </div>
           )}
         </div>
-        <div className="placeholder-image" />
-      </div>
       <div className="badge-container grow">
         <a href="https://buildspace.so/builds/ai-writer" target="_blank" rel="noreferrer">
           <div className="badge">
