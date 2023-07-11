@@ -436,6 +436,7 @@ textarea {
 .container {
     display: flex;
     align-items: flex-start;
+    justify-content: left;
 }
 
 .logo-container {
