@@ -443,7 +443,3 @@ textarea {
     margin-left: 0px; /* Add spacing between the logo and prompt container */
 }
   
-  .prompt-container {
-    flex-grow: 1;
-  }
-  
