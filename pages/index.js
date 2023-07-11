@@ -74,10 +74,8 @@ const Home = () => {
             <h2>"Unlocking Tips, Techniques, and Expertise for Stunning Decks"</h2>
           </div>
         </div>
-        <div classname="container-1">
         <div className="logo-container">
           <Image src={deckexpertLogo} alt="Your logo" />
-        </div>
         </div>
         <div className="prompt-container">
           <textarea
